@@ -1,1 +1,1 @@
-# Simple-Super-Mario-Bro-OpenGL-C-
+# Simple-Super-Mario-Bro-OpenGL-C++
