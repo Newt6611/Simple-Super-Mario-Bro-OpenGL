@@ -1,0 +1,15 @@
+[submodule "deps/glad"]
+	path = deps/glad
+	url = https://github.com/alanjian85/glad.git
+[submodule "deps/glfw"]
+	path = deps/glfw
+	url = https://github.com/alanjian85/glfw.git
+[submodule "deps/stb"]
+	path = deps/stb
+	url = https://github.com/alanjian85/stb.git
+[submodule "deps/box2d"]
+	path = deps/box2d
+	url = https://github.com/alanjian85/box2d.git
+[submodule "deps/glm"]
+	path = deps/glm
+	url = https://github.com/alanjian85/glm.git
